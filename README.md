@@ -1,8 +1,8 @@
 [<img src='assets/banner@2x.png' target="_blank">](https://www.cohort.work/arsenic-design-system/)
 
-
 <div align="center">
-<a href="cohort.work" target="_blank">
+
+<a href="https://www.cohort.work/" target="_blank">
     <p>👉 cohort.work</p>
 </a>
 <p>
